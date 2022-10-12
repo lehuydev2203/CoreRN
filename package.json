@@ -16,7 +16,7 @@
     "native-base": "^2.8.1",
     "object-path-immutable": "^3.0.0",
     "react": "16.6.1",
-    "react-native": "0.57.7",
+    "react-native": "0.70.2",
     "react-native-action-button": "^2.8.5",
     "react-native-camera": "^1.4.3",
     "react-native-custom-radio-group": "^1.0.1",
